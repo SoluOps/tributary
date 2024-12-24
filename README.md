@@ -8,7 +8,7 @@ This backend processes and serves real-time engine temperature data from vehicle
 
 ## Features
 - **`/record`**: Records engine temperature data from sensors.
-- **`/collect`**: Retrieves the latest data and calculates an average for the mobile app.
+- **`/collect`**: Retrieves the latest engine temperature and calculates an average temperature for the mobile app.
 
 ## Tech Stack
 - **Flask**: API backend.
